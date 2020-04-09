@@ -1,4 +1,4 @@
-# prediction_prix_des_appart_bostone
+# prediction_prix_des_apparts_bostone
 prédire le prix des appartements database  Boston 
 library
 import numpy as np 
